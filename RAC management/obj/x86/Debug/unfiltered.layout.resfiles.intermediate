@@ -1,0 +1,24 @@
+WinMetadata\Windows.winmd
+Assets\background.jpg
+Assets\LockScreenLogo.scale-200.png
+Assets\logo.png
+Assets\rac bg.jpg
+Assets\rac bg2.jpg
+Assets\rac bg3.png
+Assets\rac logo.jpg
+Assets\SplashScreen.scale-200.png
+Assets\Square150x150Logo.scale-200.png
+Assets\Square44x44Logo.scale-200.png
+Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+Assets\StoreLogo.png
+Assets\Wide310x150Logo.scale-200.png
+Admin.xbf
+App.xbf
+contentDialogue\adminLogin.xbf
+contentDialogue\developBy.xbf
+contentDialogue\purchaseReturn.xbf
+customer.xbf
+MainPage.xbf
+RAC management.xr.xml
+Return_car.xbf
+Properties\Default.rd.xml

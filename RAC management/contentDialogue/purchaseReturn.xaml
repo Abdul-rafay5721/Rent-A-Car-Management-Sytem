@@ -1,0 +1,19 @@
+﻿<ContentDialog
+    x:Class="RAC_management.contentDialogue.purchaseReturn"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RAC_management.contentDialogue"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Please choose an option."
+    PrimaryButtonText="Rent Car"
+    SecondaryButtonText="Return Car"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick">
+
+    <Grid>
+        <!--<Button Content="Cancel"></Button>-->
+
+    </Grid>
+</ContentDialog>

@@ -1,0 +1,40 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="RAC_management.Return_car"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RAC_management"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        
+        <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Stretch">
+            <Image Source="/assets/rac bg3.png"></Image>
+        </StackPanel>
+        <Button x:ConnectionId='2' x:Name="BackButton"                         
+                Style="{StaticResource NavigationBackButtonNormalStyle}"
+                                                                  
+                ToolTipService.ToolTip="back" Margin="17,19,0,0" VerticalAlignment="Top"/>
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center">
+            <TextBlock FontWeight="Bold" Text="Return Car Section" FontSize="60" Height="90"/>
+        </StackPanel>
+        <StackPanel Background="LightGray" BorderThickness="3"  BorderBrush="Black" Margin="500,191,535,228" >
+            <TextBlock  FontSize="20" Text="Enter CNIC of Customer" Margin="0,10"  Width="371" Height="30"/>
+            <TextBox x:ConnectionId='3' x:Name="returnCnic" Height="38" Width="380"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:ConnectionId='6' x:Name="Return_btn"                          CornerRadius="5" HorizontalAlignment="Center" Margin="0,10" Content="Return" Width="155"/>
+                <Button x:ConnectionId='7' x:Name="dequeue"                       CornerRadius="5" Content="Dequeue"  HorizontalAlignment="Center" Margin="5,10"  Width="155"/>
+            </StackPanel>
+            <StackPanel x:ConnectionId='4' x:Name="resultShow" Visibility="Visible" Height="43" Width="400">
+                <TextBlock x:ConnectionId='5' HorizontalAlignment="Center" x:Name="DequeueResultStatus" FontSize="20" ></TextBlock>
+            </StackPanel>
+        </StackPanel>
+
+        
+        
+
+    </Grid>
+</Page>
+

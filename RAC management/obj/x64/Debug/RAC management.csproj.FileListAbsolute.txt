@@ -1,0 +1,77 @@
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\Assets\rac bg3.png
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\App.xbf
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\Admin.xbf
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\contentDialogue\adminLogin.xbf
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\contentDialogue\purchaseReturn.xbf
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\customer.xbf
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\contentDialogue\developBy.xbf
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\MainPage.xbf
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\Return_car.xbf
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\RAC management.xr.xml
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\RAC management.exe
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\RAC management.pdb
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\resources.pri
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\AppxManifest.xml
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\Core\AppxManifest.xml
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\Core\RAC management.exe
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\RAC management.build.appxrecipe
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\System.Runtime.dll
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\RAC management.csproj.AssemblyReference.cache
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\App.g.i.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\App.g.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\Admin.g.i.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\Admin.g.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\adminLogin.g.i.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\adminLogin.g.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\purchaseReturn.g.i.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\purchaseReturn.g.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\customer.g.i.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\customer.g.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\developBy.g.i.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\developBy.g.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\MainPage.g.i.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\MainPage.g.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\Return_car.g.i.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\Return_car.g.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\App.xaml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\Admin.xaml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\adminLogin.xaml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\purchaseReturn.xaml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\customer.xaml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\developBy.xaml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\MainPage.xaml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\Return_car.xaml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\App.xbf
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\Admin.xbf
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\adminLogin.xbf
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\purchaseReturn.xbf
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\customer.xbf
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\contentDialogue\developBy.xbf
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\MainPage.xbf
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\Return_car.xbf
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\XamlSaveStateFile.xml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\RAC management.csproj.CoreCompileInputs.cache
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\RAC management.csproj.CopyComplete
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\RAC management.exe
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\RAC management.pdb
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\ResourceHandlingTask.state
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\priconfig.xml
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\priconfig.xml.intermediate
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\unfiltered.layout.resfiles
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\filtered.layout.resfiles
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\excluded.layout.resfiles
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\resources.resfiles
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\resources.resfiles.intermediate
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\pri.resfiles
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\pri.resfiles.intermediate
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\qualifiers.txt
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\qualifiers.txt.intermediate
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\ProjectArchitectures.txt
+D:\big projects\semester 3\RAC management\RAC management\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638017685300000000.json
+D:\big projects\semester 3\RAC management\RAC management\bin\x64\Debug\Newtonsoft.Json.dll

@@ -1,0 +1,79 @@
+﻿<Page
+    x:Class="RAC_management.Admin"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RAC_management"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel VerticalAlignment="Top" Height="1182" Margin="0,-182,0,0">
+            <Image Source="Assets/rac bg3.png"/>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Height="114" Width="570">
+            <TextBlock Text="Administration Controls" Margin="0,23" FontWeight="Bold" FontSize="50"></TextBlock>
+        </StackPanel>
+        <Button x:Name="BackButton" Click="BackButton_Click"
+                Style="{StaticResource NavigationBackButtonNormalStyle}"
+                IsEnabled="{x:Bind Frame.CanGoBack, Mode=OneWay}" 
+                ToolTipService.ToolTip="back" Margin="17,19,0,0" VerticalAlignment="Top"/>
+
+
+        <!--all butoons of admin page-->
+
+
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,150,0,0" >
+            <Button Content="Search Cars" Click="searchCarBtn_click" Margin="0,0,15,0" Width="150" Height="50" CornerRadius="10"></Button>
+            <Button Content="Add Cars" Click="addCarBtn_click" Margin="0,0,15,0" Width="150" Height="50" CornerRadius="10" ></Button>
+            <Button Content="Search orders by CNIC" Click="searchOrderCnicBtn_click" Margin="0,0,15,0" Width="180" Height="50" CornerRadius="10"></Button>
+        </StackPanel>
+
+
+        <!--functionalities of all buttons-->
+
+
+        <StackPanel BorderThickness="2" Background="LightGray" BorderBrush="Black"  x:Name="searchCars" Visibility="Collapsed" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,230,0,0" Width="450">
+            <TextBlock HorizontalAlignment="Center" Text="Enter car name to search" FontSize="20"></TextBlock>
+            <TextBox x:Name="searchValue" Height="36" FontSize="20" Width="411"></TextBox>
+            <Button CornerRadius="5" Content="Submit" x:Name="searchSubmit" Click="searchSubmit_Click" FontSize="20" Height="40" Margin="0,10" Width="264" HorizontalAlignment="Center"/>
+            <StackPanel x:Name="resultShow" Visibility="Collapsed">
+                <TextBlock x:Name="showResult" HorizontalAlignment="Center" FontSize="20"></TextBlock>
+                <TextBlock x:Name="searchResultName" FontSize="20" Height="33" Width="403"></TextBlock>
+                <TextBlock x:Name="searchResultModel" FontSize="20" Height="33" Width="403"></TextBlock>
+                <TextBlock x:Name="searchResultPlate" FontSize="20" Height="33" Width="403"></TextBlock>
+            </StackPanel>
+            
+        </StackPanel>
+
+        <StackPanel BorderThickness="2" Background="LightGray" BorderBrush="Black" x:Name="addCars" Visibility="Collapsed" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,230,0,0" Width="450" Height="392">
+            <TextBlock HorizontalAlignment="Center" Text="Enter new car name to add" FontSize="20"></TextBlock>
+            <TextBox x:Name="name" Height="37" FontSize="20" Width="394"></TextBox>
+            <TextBlock HorizontalAlignment="Center" Text="Enter Car Model" FontSize="20"></TextBlock>
+            <TextBox x:Name="model" Height="40" FontSize="20" Width="394"></TextBox>
+            <TextBlock HorizontalAlignment="Center" Text="Enter Car Numberplate" FontSize="20"></TextBlock>
+            <TextBox x:Name="plate" Height="40" FontSize="20" Width="394"></TextBox>
+            <TextBlock HorizontalAlignment="Center" Text="Enter Car one day price" FontSize="20"></TextBlock>
+            <TextBox x:Name="price" Height="40" FontSize="20" Width="399"></TextBox>
+            <Button CornerRadius="5" HorizontalAlignment="Center" x:Name="addCarSubmit" Click="addCarSubmit_Click" Margin="0,20" FontSize="20"  Content="Submit" Width="158"></Button>
+            <TextBlock x:Name="addCarResult"  FontSize="20" Height="29" Width="423"></TextBlock>
+        </StackPanel>
+
+        <StackPanel BorderThickness="2" BorderBrush="Black" Background="LightGray" x:Name="searchOrdersByCnic" Visibility="Collapsed" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,230,0,0" Width="450">
+            <TextBlock HorizontalAlignment="Center" Text="Enter CNIC to search order" FontSize="20"></TextBlock>
+            <TextBox x:Name="cnicToSearch" Height="41" FontSize="20" Width="380"></TextBox>
+            <Button CornerRadius="5" HorizontalAlignment="Center" x:Name="searchCnicSubmit" Click="searchCnicSubmit_Click" Margin="0,20" FontSize="20"  Content="Submit" Width="158"></Button>
+            <StackPanel x:Name="resultvisibility" Visibility="Collapsed">
+                <TextBlock x:Name="cnicSearchResult" TextWrapping="Wrap" HorizontalAlignment="Center" FontSize="20"></TextBlock>
+            </StackPanel>
+           
+        </StackPanel>
+
+    </Grid>
+</Page>
